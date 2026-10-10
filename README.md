@@ -92,9 +92,4 @@ The dataset originates from:
 - Remi Tregan
 
 Systems Genomics Course, Fall 2025 -- ETH Zurich / D-BSSE Basel.
-'''
 
-with open('README.md', 'w') as f:
-    f.write(content.strip() + '\n')
-print('README.md updated successfully.')
-"
