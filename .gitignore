@@ -1,0 +1,18 @@
+# Genomic data & large pipeline outputs
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+*.bai
+*.tar.gz
+rsem_genes_results/
+
+# R session & cache files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# OS-specific hidden files
+.DS_Store
+Thumbs.db
